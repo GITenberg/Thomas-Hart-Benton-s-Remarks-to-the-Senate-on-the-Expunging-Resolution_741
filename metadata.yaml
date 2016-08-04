@@ -1,0 +1,27 @@
+_repo: Thomas-Hart-Benton-s-Remarks-to-the-Senate-on-the-Expunging-Resolution_741
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Benton, Thomas Hart
+    alias: Benton, Thomas H. (Thomas Hart)
+    birthdate: 1782
+    deathdate: 1858
+    gutenberg_agent_id: '378'
+    url: http://www.gutenberg.org/2009/agents/378
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hart_Benton_(senator)
+description: January 12, 1837
+gutenberg_issued: '1996-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '741'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JK'
+- !lcsh 'United States -- Politics and government -- 1837-1841'
+- !lcsh 'Jackson, Andrew, 1767-1845'
+- GITenberg
+title: Thomas Hart Benton's Remarks to the Senate on the Expunging Resolution
+url: http://www.gutenberg.org/ebooks/741
