@@ -1,5 +1,8 @@
 _repo: Thomas-Hart-Benton-s-Remarks-to-the-Senate-on-the-Expunging-Resolution_741
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Benton, Thomas Hart
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/378
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Hart_Benton_(senator)
 description: January 12, 1837
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/741#Thomas-Hart-Benton-s-Remarks-to-the-Senate-on-the-Expunging-Resolution
 gutenberg_issued: '1996-12-01'
 gutenberg_type: Text
 identifiers:
